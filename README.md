@@ -1,8 +1,4 @@
-README.md
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
