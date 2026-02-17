@@ -118,7 +118,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sathvik-04.sathvik-04&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sathvik-04.sathvik-04&left_color=coral"  />
 </div>
 
 ###
