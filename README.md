@@ -13,12 +13,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sathvik-04.sathvik-04&"  />
-</div>
-
-###
-
 <h1 align="center">Hello Visitor 👋</h1>
 
 ###
@@ -119,6 +113,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sathvik-04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sathvik-04.sathvik-04&"  />
 </div>
 
 ###
