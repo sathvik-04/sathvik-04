@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h5 align="center">I'm Sathwik U Shetty<br><br>- 🔭 I’m a Passionate Full Stack Developer<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I love to code</h5>
+<h3 align="center">I'm Sathwik U Shetty<br><br>- 🔭 I’m a Passionate Full Stack Developer<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I love to code</h3>
 
 ###
 
