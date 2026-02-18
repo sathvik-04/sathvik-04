@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -15,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hi VISITOR👋</h1>
+<h1 align="center">Hello Visitor 👋</h1>
 
 ###
 
@@ -25,7 +23,7 @@
 
 <br clear="both">
 
-<h3 align="center">I'm Sathwik U Shetty<br><br>- 🔭 I’m a Passionate Full Stack Developer<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I love to code</h3>
+<h5 align="center">I'm Sathwik U Shetty<br><br>- 🔭 I’m a Passionate Full Stack Developer<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I love to code</h5>
 
 ###
 
@@ -121,4 +119,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sathvik-04.sathvik-04&left_color=coral"  />
 </div>
 
-
+###
